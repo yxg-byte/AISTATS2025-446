@@ -1,6 +1,7 @@
 # AISTATS2025-446
 This file is a brief manual for the submitted paper 'Parameter Estimation in State Space Models Using Particle
-Importance Sampling' in the AISTATS 2025 conference. 
+Importance Sampling' in the AISTATS 2025 conference. The code and .ipynb files are for the first submission(i.e. before rebuttals & revisions), in which settings may be slightly different from the newest version of the manuscript. 
+But the .py files remain unchanged and the structure of the code are the same.
 
 The main executions are in the format of .ipynb and on our computing source they were run in Python 3.0 on Jupiter notebook 6.5.4(in the Anaconda cluster). 
 The compute worker is CPU: Processor 12th Gen Intel(R) Core(TM) i7-12700 2.10 GHz, with installed RAM 32GB, under the 64-bit operating system, x64-based processor. 
