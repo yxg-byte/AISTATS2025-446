@@ -12,8 +12,13 @@ Cost) for specific implementation in some algorithms. For the corresponding code
 
 
 The file 'main_AR1.ipynb' contains numerical implementation in section 5.1 of the paper and should be supplemented by the file 'class_AR1.py'.
+
 The files 'vanilla vs semi-online(1).ipynb' and 'vanilla vs semi-online(2).ipynb' contains illustrations in the figures presented in section 5.1.
+
 The file 'main_SV.ipynb' contains numerical implementation in section 5.2 of the paper and should be supplemented by the file 'class_SV.py'.
+
 The file 'main_SV_likelihood surface.ipynb' contains illustrations in the figures presented in section 5.2 in the paper and should be supplemented by the file 'class_SV.py'.
+
 The file 'main_PAR.ipynb' contains numerical implementation in section 5.3 in the paper and should be supplemented by the file 'class_PAR.py'.
+
 The file 'Final Results.ipynb'summarises all results obtained in the files above and the RMSE ratios are presented in section 5 of the paper.
