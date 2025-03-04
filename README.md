@@ -12,14 +12,14 @@ and Christopher Nemeth(2016, Particle Approximations of the Score and Observed I
 Cost) for specific implementation in some algorithms. For the corresponding code, any merit is attributed to them and any fault in implementation is to blame the authors. 
 
 
-The file 'main_AR1.ipynb' contains numerical implementation in section 5.1 of the paper and should be supplemented by the file 'class_AR1.py'.
+The file 'main_AR1.ipynb' contains numerical implementation in section 4.1 of the paper and should be supplemented by the file 'class_AR1.py'.
 
-The files 'vanilla vs semi-online(1).ipynb' and 'vanilla vs semi-online(2).ipynb' contains illustrations in the figures presented in section 5.1.
+The files 'vanilla vs semi-online(1).ipynb' and 'vanilla vs semi-online(2).ipynb' contains illustrations in the figures presented in section 4.1.
 
-The file 'main_SV.ipynb' contains numerical implementation in section 5.2 of the paper and should be supplemented by the file 'class_SV.py'.
+The file 'main_SV.ipynb' contains numerical implementation in section 4.2 of the paper and should be supplemented by the file 'class_SV.py'.
 
-The file 'main_SV_likelihood surface.ipynb' contains illustrations in the figures presented in section 5.2 in the paper and should be supplemented by the file 'class_SV.py'.
+The file 'main_SV_likelihood surface.ipynb' contains illustrations in the figures presented in section 4.2 in the paper and should be supplemented by the file 'class_SV.py'.
 
-The file 'main_PAR.ipynb' contains numerical implementation in section 5.3 in the paper and should be supplemented by the file 'class_PAR.py'.
+The file 'main_PAR.ipynb' contains numerical implementation in section 4.3 in the paper and should be supplemented by the file 'class_PAR.py'.
 
-The file 'Final Results.ipynb'summarises all results obtained in the files above and the RMSE ratios are presented in section 5 of the paper.
+The file 'Final Results.ipynb'summarises all results obtained in the files above and the RMSE ratios are presented in section 4 of the paper.
